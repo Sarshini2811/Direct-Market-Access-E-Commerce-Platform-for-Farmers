@@ -1,0 +1,17 @@
+module.exports = {
+  User: require('./User'),
+  FarmerProfile: require('./FarmerProfile'),
+  Product: require('./Product'),
+  Cart: require('./Cart'),
+  Order: require('./Order'),
+  Review: require('./Review'),
+  Notification: require('./Notification'),
+  PreOrder: require('./PreOrder'),
+  GroupBuy: require('./GroupBuy'),
+  VerificationRequest: require('./VerificationRequest'),
+  Report: require('./Report'),
+  PaymentRecord: require('./PaymentRecord'),
+  AuditLog: require('./AuditLog'),
+  PriceHistory: require('./PriceHistory'),
+  ExternalPriceReference: require('./ExternalPriceReference'),
+};
