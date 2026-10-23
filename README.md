@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AgriDirect — Direct Market Access & E-Commerce Platform for Farmers
 
 A full-stack MERN marketplace connecting farmers directly with consumers, retailers,
@@ -174,3 +175,7 @@ All variables are documented in `.env.example` at the repo root — copy it to
 - The seed script's historical order dates are synthetic (for chart demo purposes);
   in production, all trend charts read the same live collections with no seed
   dependency.
+=======
+# Direct-Market-Access-E-Commerce-Platform-for-Farmers
+It is a platform to the farmer, buyer and the customer. Certain access is given by the admin.
+>>>>>>> e4bba7d21f4222d6a059bdb4ff3964e25b1e7e0d
